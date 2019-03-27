@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16370" started-at="2019-01-10T03:19:53Z" finished-at="2019-01-10T03:20:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16370" started-at="2019-01-10T03:19:53Z" finished-at="2019-01-10T03:20:10Z">
+      <class name="ParkingLot">
+        <test-method status="PASS" signature="beforeEachMethod()[pri:0, instance:ParkingLot@1593948d]" name="beforeEachMethod" is-config="true" duration-ms="4758" started-at="2019-01-10T03:19:54Z" finished-at="2019-01-10T03:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="parkCalc()[pri:0, instance:ParkingLot@1593948d]" name="parkCalc" duration-ms="7774" started-at="2019-01-10T03:19:58Z" finished-at="2019-01-10T03:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parkCalc -->
+        <test-method status="PASS" signature="afterEachMethod()[pri:0, instance:ParkingLot@1593948d]" name="afterEachMethod" is-config="true" duration-ms="3793" started-at="2019-01-10T03:20:06Z" finished-at="2019-01-10T03:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachMethod -->
+      </class> <!-- ParkingLot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
